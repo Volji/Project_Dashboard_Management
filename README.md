@@ -1,2 +1,15 @@
-# Project_Dashboard_Management
-Projet perso use Npm, Gulp.JS and Bulma Frameworks
+# Bulkit Dashboard kit 
+
+Dashboard kit Package
+
+## Demo file
+
+The index file is named `dashboard.html` in the main demo
+
+## Get started
+
+* Open a terminal
+* Change directory to the root folder of this package
+* run `npm install`
+* run `gulp build`
+* run `gulp default`
